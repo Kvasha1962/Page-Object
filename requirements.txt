@@ -53,6 +53,6 @@ selenium==3.141.0
 six==1.14.0
 tinydb==3.15.2
 tinyrecord==0.1.5
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.8
 whichcraft==0.6.1
