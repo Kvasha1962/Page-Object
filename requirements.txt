@@ -7,7 +7,7 @@ binary==1.0.0
 bottle==0.12.18
 bottle-websocket==0.2.9
 cachetools==4.0.0
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 chicken==0.1.0
